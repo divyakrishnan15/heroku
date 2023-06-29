@@ -1,0 +1,10 @@
+{
+  "name": "25-ins-heroku",
+  "version": "1.0.0",
+  "main": "server.js",
+  "license": "MIT",
+  "dependencies": {
+    "cjs": "^0.0.11",
+    "express": "^4.17.1"
+  }
+}
